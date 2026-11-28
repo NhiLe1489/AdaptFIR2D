@@ -1,0 +1,26 @@
+# Vivado
+.Xil/
+*.jou
+*.log
+*.str
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# Simulation outputs
+xsim.dir/
+*.vcd
+*.wdb
+vsim.wlf
+
+# Generated FPGA files
+*.bit
+*.xsa
+*.bit.bin
+*.dtbo
+
+# OS
+.DS_Store
+Thumbs.db
